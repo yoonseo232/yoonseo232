@@ -1,5 +1,5 @@
 <div align="center">
-Used
+##Used
 <br/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -9,5 +9,5 @@ Used
 <br/>
 <a href="https://velog.io/@yoonseo232" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
 <br/>
-<div align="center">
+##github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonseo232&layout=compact)](https://github.com/yoonseo232/github-readme-stats)
