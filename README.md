@@ -1,5 +1,7 @@
 <div align="center">
   This is my weird Github!( ◉ ᴗ ◉ʃƪ):heart:
+  <br/>
+  Thank U For Visiting!!:poop:
   
   <br/><br/>
   Languages:fire:
