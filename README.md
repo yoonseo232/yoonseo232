@@ -7,7 +7,7 @@
   
   <br/><br/>
   Another:memo:
-  <br/>
+  <br/><br/>
   <a href="https://velog.io/@yoonseo232" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
     
   <br/><br/>
