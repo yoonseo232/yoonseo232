@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&text=( ◉ ᴗ ◉ʃƪ))
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFFFFF&height=100&section=header&text=( ◉ ᴗ ◉ʃƪ)&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 <a href="https://velog.io/@yoonseo232" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" aline="center">
 
