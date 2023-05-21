@@ -1,17 +1,17 @@
 <div align="center">
-  This is my weird Github!( ◉ ᴗ ◉ʃƪ):heart:
+  This's  My Weird Github!( ◉ ᴗ ◉ʃƪ):heart:
   <br/>
   Thank U For Visiting!!:poop:
   
   <br/><br/>
-  Languages:fire:
+  :fire:Languages:fire:
   <br/><br/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> 
   
   <br/><br/><br/>
-  Used:memo:
+ :fire:Used:fire:
   <br/><br/>
   <a href="https://velog.io/@yoonseo232" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
     
