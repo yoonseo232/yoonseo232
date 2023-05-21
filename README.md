@@ -5,7 +5,7 @@
   <br/>
   This's  My Weird Github!( ◉ ᴗ ◉ʃƪ):heart:
   <br/>
-  Thank U For Visiting!!:poop:
+  Thank You For Visiting!!:poop:
 </h3>
   
 <br/>
