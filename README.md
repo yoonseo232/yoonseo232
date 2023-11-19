@@ -1,13 +1,4 @@
 <div align="center">
-  
-<br/>  
-  
-<h2>
-  <br/>
-  This's  My Weird Github!( ◉ ᴗ ◉ʃƪ):heart:
-  <br/>
-  Thank You For Visiting!!:poop:
-</h3>
 
 </br>
 너의 얼굴이 보고싶어 -> https://github.com/hxxjx523/WSM_Project2
