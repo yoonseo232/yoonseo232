@@ -12,7 +12,6 @@
 <br/>
 <h4>👉Used</h4>
 <a href="https://velog.io/@yoonseo232" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
-</div>
 
 <br/><br/>
 <h2>USED LANGUGES</h2>
@@ -21,3 +20,6 @@
 <br/><br/>
 <h2>LEVEL</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonseo232&show_icons=true&theme=apprentice)
+</div>
+
+
