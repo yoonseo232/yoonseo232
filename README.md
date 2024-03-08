@@ -15,5 +15,8 @@
     
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonseo232&layout=compact)](https://github.com/yoonseo232/github-readme-stats)
+
+<br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonseo232&show_icons=true&theme=radical)
     
 </div>
