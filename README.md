@@ -8,7 +8,6 @@
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonseo232&layout=compact)
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonseo232&show_icons=true&theme=nord)
 </div>
 
 
