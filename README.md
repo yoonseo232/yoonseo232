@@ -10,6 +10,8 @@
 <h4>👉Used</h4>
 <a href="https://velog.io/@yoonseo232" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
 
+<img src="![깃](https://github.com/yoonseo232/yoonseo232/assets/99568268/be93f5c7-0a92-453d-8f04-cf10cfa0e977)">
+
 </div>
 
 
