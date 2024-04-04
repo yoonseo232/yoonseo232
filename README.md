@@ -5,7 +5,7 @@
 <br/>
 ![깃2](https://github.com/yoonseo232/yoonseo232/assets/99568268/568db1ef-4931-4fb2-af01-106816190343)
 <br/>
-![깃3](https://github.com/yoonseo232/yoonseo232/assets/99568268/dd4d6573-58fa-43ef-8420-dee463a8d827)
+![깃3](https://github.com/yoonseo232/yoonseo232/assets/99568268/f7826b8f-3ffb-4750-8338-d858a8e7f574)
 </div>
 
 
