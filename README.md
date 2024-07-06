@@ -4,7 +4,12 @@
 <br/><br/>
 ![깃2](https://github.com/yoonseo232/yoonseo232/assets/99568268/568db1ef-4931-4fb2-af01-106816190343)
 <br/>
-![깃3](https://github.com/yoonseo232/yoonseo232/assets/99568268/f7826b8f-3ffb-4750-8338-d858a8e7f574)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff"> 
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=fff">
 <br/><br/>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
